@@ -12,6 +12,9 @@ I was fascinated with this simple yet effective model of machine learning, which
 Additionally, I wrote another file of the code ‘generatePatterns’ to generate every possible state of the tic-tac-toe game, which MENACE will use to make the decisions and learn.
 
 
+Note: The current state of MENACE is not fully trained, so you can have some fun training it, and if you want to train it from scratch, you can run the 'generatePatterns' file, and it will reset everything.  
+
+
 
 
 
